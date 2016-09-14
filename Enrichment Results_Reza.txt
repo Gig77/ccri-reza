@@ -1,0 +1,51 @@
+No	Type	TC_before	TC_after	increase	group
+1	Frozen (Liquid N)	0.09	10.2	113.33	A
+2	Frozen (Liquid N)	0.1	9	90	A
+3	Frozen (Liquid N)	0.1	53	530	A
+4	Frozen (Liquid N)	0.5	35.8	71.6	A
+5	Frozen (Liquid N)	0.5	50.7	101.4	A
+6	Frozen (Liquid N)	0.69	62.1	90	A
+7	Frozen (Liquid N)	1	15	15	A
+8	Frozen (Liquid N)	1	70.3	70.3	A
+9	Frozen (Liquid N)	1	22.9	22.9	A
+0	Frozen (Liquid N)	1	4.8	4.8	A
+11	Frozen (Liquid N)	1	27	27	A
+12	Frozen (Liquid N)	1	11.8	11.8	A
+13	Frozen (-80°C)	2.5	60	24	B
+14	Frozen (Liquid N)	3	33.6	11.2	B
+15	Frozen (Liquid N)	3	23.7	7.9	B
+16	Frozen (Liquid N)	4	40.8	10.2	B
+17	Frozen (-80°C)	5	47.01	9.4	B
+18	Frozen (Liquid N)	5	48.47	9.69	B
+19	Frozen (Liquid N)	5	12.3	2.46	B
+20	Frozen (Liquid N)	5	19.2	3.84	B
+21	Frozen (Liquid N)	5	46.91	9.38	B
+22	Frozen (Liquid N)	5	30.59	6.11	B
+23	Frozen (Liquid N)	5	34.6	6.92	B
+24	Frozen (Liquid N)	5	51.2	10.24	B
+25	Frozen (Liquid N)	5	30.5	6.1	B
+26	Frozen (Liquid N)	6	51	8.5	B
+27	Frozen (Liquid N)	10	47	4.7	C
+28	Frozen (Liquid N)	10	83.87	8.38	C
+29	Frozen (Liquid N)	10	42.1	4.21	C
+30	Frozen (Liquid N)	20	30	1.5	C
+31	Frozen (Liquid N)	20	48.3	2.41	C
+32	Frozen (Liquid N)	20	50.5	2.52	C
+33	Frozen (Liquid N)	20	45.45	2.27	C
+34	Frozen (Liquid N)	20	60	3	C
+35	Frozen (Liquid N)	25	69.1	2.76	C
+36	Frozen (-80°C)	30	74.1	2.47	C
+37	Frozen (Liquid N)	30	65.4	2.18	C
+38	Frozen (Liquid N)	30	63.5	2.11	C
+39	Frozen (Liquid N)	30	41.8	1.39	C
+40	Frozen (Liquid N)	30	91.9	3.06	C
+41	Frozen (Liquid N)	30	71.3	2.37	C
+42	Frozen (Liquid N)	40	73	1.82	D
+43	Frozen (Liquid N)	40	88	2.2	D
+44	Frozen (Liquid N)	40	95	2.37	D
+45	Frozen (Liquid N)	40	47.42	1.18	D
+46	Frozen (Liquid N)	50	90	1.8	D
+47	Frozen (Liquid N)	50	72.6	1.45	D
+48	Fresh	0.06	45	750	?
+49	Fresh	0.08	47.01	587.62	?
+50	Fresh	5	78.61	15.72	?
